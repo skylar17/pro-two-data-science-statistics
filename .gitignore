@@ -1,3 +1,12 @@
+*.csv
+############# 
+*~
+*.bak
+*.swp
+Thumbs.db
+desktop.ini
+##############
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
